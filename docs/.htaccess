@@ -1,5 +1,5 @@
-# this is just a demo site!
 AuthType Basic
 AuthName "Password"
 AuthUserFile /.htpasswd/.code
 Require valid-user
+# demo site!
